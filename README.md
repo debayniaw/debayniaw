@@ -22,10 +22,15 @@
 </p>
 
 ---
-### ⏳ CURRENT LOGS
+### 🖼️ CREATIVE SHOTS / FEATURED DESIGNS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=debayniaw&theme=tokyonight&layout=compact" alt="debayniaw WakaTime" />
+  <a href="LINK_PROYEK_KAMU_1">
+    <img src="https://images.placeholders.dev/?width=380&height=220&text=UI/UX+Project+1&theme=dark" alt="Design 1" width="45%" />
+  </a>
+  <a href="LINK_PROYEK_KAMU_2">
+    <img src="https://images.placeholders.dev/?width=380&height=220&text=Vector+Asset+2&theme=dark" alt="Design 2" width="45%" />
+  </a>
 </p>
 
 ---
