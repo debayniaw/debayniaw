@@ -22,8 +22,8 @@
 
 ---
 
-### 👁️ SYSTEM ARCHIVE
+### 🕹️ MY GITHUB SNAKE GAME
 
 <p align="center">
-  <img src="https://github.com/debayniaw/debayniaw/blob/main/debayniaw.gif.gif?raw=true" alt="System Archive Skull" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debayniaw&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Snake Animation Alternative" />
 </p>
