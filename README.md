@@ -2,7 +2,7 @@
   <img src="https://github.com/debayniaw/debayniaw/blob/main/github-header-banner.png.png?raw=true" alt="DEBAYNIAW IS HERE!" width="100%">
 </p>
 
-### 🦾 DRIVEN BY LOGIC, BOUND BY AESTHETICS
+###  DRIVEN BY LOGIC, BOUND BY AESTHETICS
 
 * 🎓 Currently Surviving at Pasundan University
 * 🎨 Lowkey Obsessed with Design & UI/UX
