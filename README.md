@@ -22,15 +22,10 @@
 </p>
 
 ---
-### 🖼️ CREATIVE SHOTS / FEATURED DESIGNS
+### 🧠 DESIGN & TECH ARSENAL
 
 <p align="center">
-  <a href="LINK_PROYEK_KAMU_1">
-    <img src="https://images.placeholders.dev/?width=380&height=220&text=UI/UX+Project+1&theme=dark" alt="Design 1" width="45%" />
-  </a>
-  <a href="LINK_PROYEK_KAMU_2">
-    <img src="https://images.placeholders.dev/?width=380&height=220&text=Vector+Asset+2&theme=dark" alt="Design 2" width="45%" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=figma,inkscape,photoshop,html,css,flutter&theme=dark" alt="My Tools" />
 </p>
 
 ---
