@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=200&section=header&text=Hello%20World!%20I'm%20Nadhil&fontSize=40&animation=fadeIn&fontColor=40c463" alt="Banner" />
+  <img src="https://bloggecard.vercel.app/api/?v=1.0.0&name=Hello%20World!%20I'm%20debayniaw&description=Web%20Developer&theme=dark&backgroundColor=%230d1117&borderColor=%2330363d&layout=left&avatar=https%3A%2F%2Fraw.githubusercontent.com%2Fmarwin1991%2Fprofile-technology-icons%2Fmain%2Ficons%2Floading.gif&dino=true" alt="Nadhil's Banner" width="100%" />
 </p>
 
 ### Hi there 👋, I'm debayniaw
