@@ -22,12 +22,10 @@
 </p>
 
 ---
-
-### 📊 GITHUB STATS
+### ⏳ CURRENT LOGS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debayniaw&show_icons=true&theme=dark&count_private=true" alt="debayniaw's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debayniaw&layout=compact&theme=veneer" alt="debayniaw's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=debayniaw&theme=tokyonight&layout=compact" alt="debayniaw WakaTime" />
 </p>
 
 ---
