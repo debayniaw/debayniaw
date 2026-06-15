@@ -1,0 +1,29 @@
+name: Generate Datas
+
+on:
+  schedule: # Jalan otomatis setiap 12 jam
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Bisa dijalankan manual kapan saja
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Game Snake Animasi
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: debayniaw
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Kirim hasilnya ke branch output
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
