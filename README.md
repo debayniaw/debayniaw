@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/debayniaw/debayniaw/main/github-header-banner.png" alt="Nadhil's Banner" width="100%" />
+  <img src="[https://raw.githubusercontent.com/debayniaw/debayniaw/main/github-header-banner.png](https://github.com/debayniaw/debayniaw/blob/main/github-header-banner.png.png?raw=true)" alt="Nadhil's Banner" width="100%" />
 </p>
 
 ### Hi there 👋, I'm debayniaw
