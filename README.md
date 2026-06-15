@@ -2,11 +2,10 @@
   <img src="https://github.com/debayniaw/debayniaw/blob/main/github-header-banner.png.png?raw=true" alt="Nadhil's Banner" width="100%" />
 </p>
 
-### Hi there 👋, I'm debayniaw
+### SHADOWS IN THE CODE, AESTHETICS IN THE DARK.
 
-* 🎓 I'm studying at Pasundan University
-* 💻 I'm currently learning Mobile & Web Development
-* ⚡ Fun fact: I love building cool programs and optimizing user experiences!
+* Currently Surviving at Pasundan University.
+* Lowkey Obsessed with Design & UI/UX
 
 ---
 
