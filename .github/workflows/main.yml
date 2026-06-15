@@ -1,28 +1,37 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # Otomatis jalan setiap 12 jam
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Biar bisa diklik manual
+  schedule:
+    # Berjalan otomatis setiap 24 jam
+    - cron: "0 */24 * * *"
+  
+  # Biar bisa kita klik manual dari tab Actions
+  workflow_dispatch:
+  
+  # Berjalan otomatis setiap kali README di-update
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      # Animasi Ular (Snake Game)
-      - name: Generate github-contribution-grid-snake.svg
-        uses: platane/snk/svg-only@v3
+      # Menggambar animasi ular dari grafik kontribusi debayniaw
+      - name: generate-github-contribution-grid-snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: debayniaw
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Upload hasil ke branch output
-      - name: Push github-contribution-grid-snake.svg to the output branch
+          
+      # Nge-push hasil gambar ular ke branch khusus bernama 'output'
+      - name: push github-contribution-grid-snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
