@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20I'm%20debayniaw&fontSize=40&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8a2be2,ff007f&height=200&section=header&text=Hello%20World!%20I'm%20Nadhil&fontSize=40&animation=fadeIn" alt="Banner" />
 </p>
 
 ### Hi there 👋, I'm debayniaw
