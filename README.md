@@ -2,14 +2,15 @@
   <img src="https://github.com/debayniaw/debayniaw/blob/main/github-header-banner.png.png?raw=true" alt="Nadhil's Banner" width="100%" />
 </p>
 
-### SHADOWS IN THE CODE, AESTHETICS IN THE DARK.
+### DRIVEN BY LOGIC, BOUND BY AESTHETICS.
 
-* Currently Surviving at Pasundan University.
-* Lowkey Obsessed with Design & UI/UX
+* 🎓 Currently Surviving at Pasundan University
+* 🎨 Lowkey Obsessed with Design & UI/UX
+
 
 ---
 
-### 🧠 Skills & Tools
+### 🧠 SKILLS & TOOLS
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -22,10 +23,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GITHUB STATS
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debayniaw&layout=compact&theme=vision-pro&hide_border=true" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debayniaw&show_icons=true&theme=dark&count_private=true" alt="debayniaw's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debayniaw&layout=compact&theme=veneer" alt="debayniaw's Top Languages" height="180px" />
 </p>
 
 ---
