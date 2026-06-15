@@ -22,11 +22,13 @@
 </p>
 
 ---
-### 🧠 DESIGN & TECH ARSENAL
+### 💻 CREATIVE_LOGS.EXE
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,inkscape,photoshop,html,css,flutter&theme=dark" alt="My Tools" />
-</p>
+```text
+[SYSTEM] : INITIALIZING DEBAYNIAW ARCHIVE...
+[FOCUS]  : 50% DIGITAL LOGIC // 50% VISUAL AESTHETICS
+[GEAR]   : FIGMA, INKSCAPE, FLUTTER
+[STATUS] : EXPERIMENTING WITH NEW LAYOUTS AND INTERFACES.
 
 ---
 
