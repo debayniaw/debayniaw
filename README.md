@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" alt="DEBAYNIAW IS HERE!" width="100%">
+  <img src="https://github.com/debayniaw/debayniaw/blob/main/github-header-banner.png.png?raw=true" alt="DEBAYNIAW IS HERE!" width="100%">
 </p>
 
 ### 🦾 DRIVEN BY LOGIC, BOUND BY AESTHETICS
