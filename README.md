@@ -24,9 +24,6 @@
 
 ### 👁️ SYSTEM ARCHIVE
 
-```text
-     ______
-    /      \
-   |  () () |
-    \  __  /
-     ||  ||
+<p align="center">
+  <img src="debayniaw.gif" alt="System Archive Skull" width="180px">
+</p>
