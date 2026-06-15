@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bloggecard.vercel.app/api/?v=1.0.0&name=Hello%20World!%20I'm%20debayniaw&description=Web%20Developer&theme=dark&backgroundColor=%230d1117&borderColor=%2330363d&layout=left&avatar=https%3A%2F%2Fraw.githubusercontent.com%2Fmarwin1991%2Fprofile-technology-icons%2Fmain%2Ficons%2Floading.gif&dino=true" alt="Nadhil's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/debayniaw/debayniaw/main/github-header-banner.png" alt="Nadhil's Banner" width="100%" />
 </p>
 
 ### Hi there 👋, I'm debayniaw
