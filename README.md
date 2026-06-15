@@ -24,6 +24,9 @@
 
 ### 👁️ SYSTEM ARCHIVE
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3M1NXg0bXN6Nm9id290b2Ntc3E0Nm9idXAyZndicXN4Z3g0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKw9VwVf6C93_jW/giphy.gif" alt="Dark Skull Glitch" width="180px" />
-</p>
+```text
+     ______
+    /      \
+   |  () () |
+    \  __  /
+     ||  ||
