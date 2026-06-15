@@ -25,5 +25,5 @@
 ### 🕹️ MY GITHUB SNAKE GAME
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debayniaw&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Snake Animation Alternative" />
+  <img src="https://cdn.jsdelivr.net/gh/platane/snk@master/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
