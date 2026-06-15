@@ -25,5 +25,5 @@
 ### 👁️ SYSTEM ARCHIVE
 
 <p align="center">
-  <img src="debayniaw.gif" alt="System Archive Skull" width="180px">
+  <img src="https://raw.githubusercontent.com/debayniaw/debayniaw/main/debayniaw.gif" alt="System Archive Skull" width="180px">
 </p>
