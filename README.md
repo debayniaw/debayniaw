@@ -25,5 +25,5 @@
 ### 🕹️ MY GITHUB SNAKE GAME
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/platane/snk@master/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/snake.svg?user=debayniaw&theme=dark" width="100%" alt="Github Snake Game" />
 </p>
